@@ -8,5 +8,10 @@
         "title": "Alissa's Portfolio",
         "url": "https://alissatalleypixley.com/",
         "feed": "https://alissatalleypixley.com/feed/"
-    }
+    },
+    {
+        "title": "Noha Ghannam Portfolio",
+        "url": "https://nmghanna.github.io/portfolio/",
+        "feed": ""
+    },
 ]
