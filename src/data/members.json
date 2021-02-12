@@ -23,5 +23,10 @@
         "title": "HT",
         "url": "http://www.hopetambala.com/",
         "feed": ""
+    },
+    {
+        "title": "Rebecca's Blog",
+        "url": "https://rwilden.wordpress.com/",
+        "feed": "https://rwilden.wordpress.com/feed/"
     }
 ]
